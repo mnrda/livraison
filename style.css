@@ -1,0 +1,35 @@
+
+.container{
+
+    margin: 20px;
+
+}
+
+.icons-container{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding: 1rem 0;
+    background-color: #DCF1E0 ;
+    border-radius: 10px;
+    margin: 80px;
+    
+}
+
+.icons-container .icons{
+    
+    display: flex;
+    flex: 1 2 15rem;
+    gap: 1rem;
+    padding: 0.5rem 1rem;
+}
+
+.icons-container .icons i{
+    font-size:1rem;
+    color: #18025a;
+}
+
+ .icons-container .icons span{
+    font-size: 1rem;
+    color: #18025a;
+}
